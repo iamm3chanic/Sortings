@@ -1,11 +1,11 @@
 If you want to output the sorting in the console, compile it:
 ```bash
-   $ chmod +x b_sorting
-   $ ./b_sorting
+   $ chmod +x *.sh
+   $ ./SOMETHING.sh
 ```
 If you want to output the message in file:
 ```bash
-   $ chmod +x b_sorting
-   $ ./b_sorting > output.txt &
+   $ chmod +x *.sh
+   $ ./SOMETHING.sh > output.txt &
 ```
 ### Enjoy!
