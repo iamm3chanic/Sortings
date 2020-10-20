@@ -1,3 +1,10 @@
 # Sortings
-- Here are implemented 10 kinds of sortings in C/java.
-- Also I've seen an array-function in bash, so I will write them in bash, too.
+Here are implemented 8 kinds of sortings in C/java/bash.  
+- bubble
+- bucket
+- counting
+- heap
+- insertion
+- selection
+- merge
+- quick
